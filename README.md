@@ -7,4 +7,4 @@ Interested in custom Roms
 
 
 💻 Tech Stack:
-[!Tech_Stack(https://skillicons.dev/icons?i=py,kotlin,java,githubactions,github,git,gitlab)]
+[!]Tech_Stack](https://skillicons.dev/icons?i=py,kotlin,java,githubactions,github,git,gitlab)]
