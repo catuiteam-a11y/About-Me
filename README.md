@@ -5,4 +5,6 @@ GKI kernel developer
 Porter OEM Android Roms
 Interested in custom Roms
 
-[![Tech_Stack](https://skillicons.dev/icons?i=py,kotlin,java,githubactions,github,git,gitlab)](https://skillicons.dev)
+
+💻 Tech Stack:
+[![Tech_Stack](https://skillicons.dev/icons?i=py,kotlin,java,githubactions,github,git,gitlab)]
